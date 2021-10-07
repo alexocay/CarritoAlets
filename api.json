@@ -1,38 +1,134 @@
 [
-    {
-      "precio": 500,
-      "id": 1,
-      "title": "Café",
-      "thumbnailUrl": "https://picsum.photos/id/0/600"
-    },
-    {
-      "precio": 300,
-      "id": 2,
-      "title": "Pizza",
-      "thumbnailUrl": "https://picsum.photos/id/10/600"
-    },
-    {
-      "precio": 100,
-      "id": 3,
-      "title": "Agua",
-      "thumbnailUrl": "https://picsum.photos/id/20/600"
-    },
-    {
-      "precio": 50,
-      "id": 4,
-      "title": "Sandía",
-      "thumbnailUrl": "https://picsum.photos/id/30/600"
-    },
-    {
-      "precio": 10,
-      "id": 5,
-      "title": "Mango",
-      "thumbnailUrl": "https://picsum.photos/id/40/600"
-    },
-    {
-      "precio": 150,
-      "id": 6,
-      "title": "Chela",
-      "thumbnailUrl": "https://picsum.photos/id/50/600"
-    }
-  ]
+  {
+    "precio": 85.0,
+    "id": 1,
+    "title": "THE TOUR WHITE PHOTO HOODIE",
+    "thumbnailUrl": "img/thetour1.jpg"
+  },
+  {
+    "precio": 90,
+    "id": 3,
+    "title": "THE TOUR BLACK PHOTO HOODIE",
+    "thumbnailUrl": "img/thetour3.png"
+  },
+  {
+    "precio": 36,
+    "id": 5,
+    "title": "THE TOUR SKETCH II T-SHIRT",
+    "thumbnailUrl": "img/thetour5.jpg"
+  },
+  {
+    "precio": 105,
+    "id": 4,
+    "title": "THE TOUR TIE DYE HOODIE",
+    "thumbnailUrl": "img/thetour7.jpg"
+  },
+  {
+    "precio": 105,
+    "id": 4,
+    "title": "THE TOUR SEÑORITA HOODIE",
+    "thumbnailUrl": "img/thetour12.jpg"
+  },
+  {
+    "precio": 25,
+    "id": 2,
+    "title": "THE TOUR T-SHIRT",
+    "thumbnailUrl": "img/thetour2.jpg"
+  },
+  {
+    "precio": 40,
+    "id": 2,
+    "title": "THE TOUR NAME T-SHIRT SHOT",
+    "thumbnailUrl": "img/thetour8.png"
+  },
+  {
+    "precio": 40,
+    "id": 2,
+    "title": "THE TOUR WHITE T-SHIRT SHOT",
+    "thumbnailUrl": "img/thetour9.png"
+  },
+  {
+    "precio": 40,
+    "id": 2,
+    "title": "THE TOUR PHOTO T-SHIRT",
+    "thumbnailUrl": "img/thetour92.jpg"
+  },
+  {
+    "precio": 15,
+    "id": 4,
+    "title": "THE TOUR TOTE BAG",
+    "thumbnailUrl": "img/thetour4.jpg"
+  },
+  {
+    "precio": 5,
+    "id": 5,
+    "title": "THE TOUR BRACELET",
+    "thumbnailUrl": "img/thetour6.jpg"
+  },
+  {
+    "precio": 25,
+    "id": 6,
+    "title": "THE TOUR HAT",
+    "thumbnailUrl": "img/thetour13.jpg"
+  },
+  {
+    "precio": 80,
+    "id": 6,
+    "title": "IN MY BLOOD CREWNECK",
+    "thumbnailUrl": "img/inmyblood.jpg"
+  },
+  {
+    "precio": 95,
+    "id": 6,
+    "title": "IN MY BLOOD FLORAL HOODIE I",
+    "thumbnailUrl": "img/inmyblood2.jpg"
+  },
+  {
+    "precio": 95,
+    "id": 6,
+    "title": "IN MY BLOOD FLORAL HOODIE II",
+    "thumbnailUrl": "img/inmyblood3.jpg"
+  },
+  {
+    "precio": 20,
+    "id": 6,
+    "title": "IN MY BLOOD TOUR T-SHIRT",
+    "thumbnailUrl": "img/inmyblood4.jpg"
+  },
+  {
+    "precio": 40,
+    "id": 6,
+    "title": "WONDER SWALLOW T-SHIRT",
+    "thumbnailUrl": "img/wonder.jpg"
+  },
+  {
+    "precio": 65,
+    "id": 6,
+    "title": "WONDER EMBOSSED CREWNECK",
+    "thumbnailUrl": "img/wonder2.jpg"
+  },
+  {
+    "precio": 35,
+    "id": 6,
+    "title": "WONDER COVER T-SHIRT I",
+    "thumbnailUrl": "img/wonder3.jpg"
+  },
+  {
+    "precio": 25,
+    "id": 6,
+    "title": "WONDER COVER T-SHIRT II",
+    "thumbnailUrl": "img/wonder4.jpg"
+  },
+  {
+    "precio": 25,
+    "id": 6,
+    "title": "WONDER SCRIPT L/S T-SHIRT",
+    "thumbnailUrl": "img/wonder5.jpg"
+  },
+  {
+    "precio": 25,
+    "id": 6,
+    "title": "WONDER SCRIPT T-SHIRT",
+    "thumbnailUrl": "img/wonder6.jpg"
+  }
+]
