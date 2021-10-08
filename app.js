@@ -19,7 +19,6 @@ const pintarProductos = (data) => {
   const fragment = document.createDocumentFragment();
   //console.log(template);
   data.forEach((producto) => {
-    //console.log(producto)
     template.querySelector("img").setAttribute("src", producto.thumbnailUrl);
     template.querySelector("h5").textContent = producto.title;
     template.querySelector("p span").textContent = producto.precio;
@@ -90,7 +89,7 @@ const pintarFooter = () => {
 
   if (Object.keys(carrito).length === 0) {
     //cuando se limpia el carrito hace que aparezca el mensaje "Carrito vacio"
-    footer.innerHTML = `<th scope="row" colspan="5">Carrito vacío</th>`;
+    footer.innerHTML = `<th scope="row" colspan="5">Empty Cart</th>`;
 
     return;
   }

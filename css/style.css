@@ -1,0 +1,139 @@
+button.btn.btn-outline-light.my-2.my-sm-0 {
+  margin-right: 1rem;
+}
+
+a.navbar-brand {
+  margin-left: 1rem;
+}
+
+.logosm {
+  height: 4rem;
+  width: 17rem;
+}
+
+.menu {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-size: larger;
+  margin-left: 3%;
+}
+
+.btn-outline-light {
+  border-color: #a0824d;
+  color: #a0824d;
+  font-size: larger;
+}
+
+.btn-outline-light:hover {
+  background-color: #6d2e27;
+  border-color: #a0824d;
+  color: #a0824d;
+}
+
+.hero-banner {
+  margin-top: 5%;
+}
+
+.hero-banner h1 {
+  color: #6d2e27;
+  font-size: 55px;
+}
+.hero-banner .btn {
+  overflow: hidden;
+  position: relative;
+  z-index: 9;
+}
+
+.hero-banner .btn-primary {
+  background-color: rgba(1, 164, 121, 0.1);
+  border-color: #a0824d;
+}
+.hero-banner .btn:before {
+  -webkit-transition: all 0.5s ease-in-out 0s;
+  -moz-transition: all 0.5s ease-in-out 0s;
+  -ms-transition: all 0.5s ease-in-out 0s;
+  -o-transition: all 0.5s ease-in-out 0s;
+  transition: all 0.5s ease-in-out 0s;
+  background: #a0824d;
+  content: "";
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 4px;
+  z-index: -1;
+}
+.hero-banner .btn:hover:before {
+  width: 100%;
+}
+
+.title {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-size: x-large;
+}
+
+.card-body {
+  background-color: #6d2e27;
+  border-radius: 3%;
+  color: whitesmoke;
+}
+
+.btn-primary:hover {
+  background-color: whitesmoke;
+  border-color: #6d2e27;
+  color: #6d2e27;
+}
+
+.btn-primary {
+  background-color: #a0824d;
+  border-color: #6d2e27;
+}
+
+.cartstyle h1 {
+  color: #a0824d;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.tablenames {
+  color: #6d2e27;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.btn-info {
+  background-color: #a0824d;
+  border-color: #a0824d;
+  font-size: 1rem;
+}
+
+.btn-info:hover {
+  background-color: whitesmoke;
+  border-color: #a0824d;
+  font-size: 1rem;
+}
+
+.btn-danger {
+  background-color: #6d2e27;
+  border-color: #6d2e27;
+  font-size: 1rem;
+}
+
+.btn-danger:hover {
+  background-color: whitesmoke;
+  border-color: #6d2e27;
+  color: black;
+  font-size: 1rem;
+}
+
+footer {
+  width: 100%;
+  background-color: #263238;
+  min-height: 20%;
+  padding: 12px 0px 10px 0px;
+}
+
+footer p {
+  font-size: 15px;
+  color: #a0824d;
+  padding-bottom: 0px;
+  margin-bottom: 8px;
+}

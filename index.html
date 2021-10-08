@@ -11,9 +11,9 @@
       integrity="sha384-uWxY/CJNBR+1zjPWmfnSnVxwRheevXITnMqoEIeG1LJrdI0GlVs/9cVSyPYXdcSF"
       crossorigin="anonymous"
     />
-    <link href="css/sidebar.css" rel="stylesheet" />
+    <link href="css/style.css" rel="stylesheet" />
   </head>
-  <body class="body">
+  <body class="body bg-light">
     <div class="header">
       <nav
         class="
@@ -21,12 +21,21 @@
           bg-dark
           d-flex
           justify-content-between
+          fixed-top
         "
       >
-        <a class="navbar-brand" href="#">IMG</a>
-        <button class="btn btn-outline-light my-2 my-sm-0" type="submit">
-          Carrito
-        </button>
+        <a href="index.html"
+          ><img
+            src="img/sm10.png"
+            alt="logo"
+            class="d-inline-block align-text-top logosm"
+        /></a>
+
+        <a href="#carrito">
+          <button class="btn btn-outline-light my-2 my-sm-0" type="submit">
+            Cart
+          </button>
+        </a>
       </nav>
     </div>
 
@@ -34,43 +43,47 @@
       <div class="container">
         <div class="row row align-items-center">
           <div class="col-lg-5 offset-lg-1 order-lg-1">
-            <img src="img/sl.jpg" class="img-fluid" alt="Web Development" />
+            <img src="img/sl5.png" class="img-fluid" alt="Web Development" />
           </div>
           <div class="col-lg-6">
-            <h1 class="mt-3 title">SHAWN MENDES<br />MERCHANDISE</h1>
-            <p class="lead text-secondary my-5">
+            <h1 class="mt-3 title">GET THE OFFICIAL MERCHANDISE</h1>
+            <p class="lead text-secondary my-5 pp">
               We are doing our best to deliver your order on time, however, we
               may experience delays somewhere along the way as we try to keep
-              everyone safe.
+              everyone safe. <b>US shipping only</b>
             </p>
-            <a href="#" class="btn btn-outline-secondary btn-lg border"
-              >View All Products</a
+            <a
+              href="#contenedor-productos"
+              class="btn btn-outline-secondary btn-lg border"
+              >View All Merch</a
             >
           </div>
         </div>
+        <hr />
       </div>
     </section>
-    <div class="container">
-      <h1 class="text-center">PRODUCTS</h1>
-      <hr />
-
+    <br />
+    <br />
+    <div class="container contenido">
       <div class="row" id="contenedor-productos"></div>
-      <div class="my-5">
-        <h4>Carrito de Compras</h4>
+      <div class="my-5 cartstyle" id="carrito">
+        <h1 id="carttitle">Shopping Cart</h1>
         <table class="table">
           <thead>
-            <tr>
+            <tr class="tablenames">
               <th scope="col">#</th>
               <th scope="col">Item</th>
-              <th scope="col">Cantidad</th>
-              <th scope="col">Acción</th>
+              <th scope="col">Pieces</th>
+              <th scope="col">Add or Rest</th>
               <th scope="col">Total</th>
             </tr>
           </thead>
           <tbody id="items"></tbody>
           <tfoot>
             <tr id="footer-carrito">
-              <th scope="row" colspan="5">Carrito vacío comience a comprar</th>
+              <th scope="row" colspan="5">
+                Your Shopping Cart is Empty, ¡Let's start!
+              </th>
             </tr>
           </tfoot>
         </table>
@@ -80,38 +93,48 @@
           <div class="card">
             <img src="..." class="card-img-top" alt="..." />
             <div class="card-body">
-              <h5 class="card-title">Café</h5>
+              <h5 class="card-title">Hoodie</h5>
               <p class="card-text">$ <span>500</span> USD</p>
-              <button class="btn btn-primary">Comprar</button>
+              <button class="btn btn-primary">Buy</button>
             </div>
           </div>
         </div>
       </template>
 
-      <template id="template-footer">
-        <th scope="row" colspan="2">Total productos</th>
-        <td>10</td>
+      <template id="template-footer" class="msjcart">
+        <th scope="row" colspan="2">Items in the order</th>
+        <td id="tot">10</td>
         <td>
           <button class="btn btn-danger btn-sm" id="vaciar-carrito">
-            Vaciar Carrito
+            Clear cart
           </button>
         </td>
-        <td class="font-weight-bold">$ <span>5000</span></td>
+        <td class="font-weight-bold">$ <span>5000</span> USD</td>
       </template>
 
-      <template id="template-carrito">
+      <template id="template-carrito" class="cartcontent">
         <tr>
           <th scope="row">id</th>
-          <td>Café</td>
+          <td>Hoodie</td>
           <td>1</td>
           <td>
             <button class="btn btn-info btn-sm">+</button>
             <button class="btn btn-danger btn-sm">-</button>
           </td>
-          <td>$ <span>500</span></td>
+          <td>$ <span>500</span> USD</td>
         </tr>
       </template>
     </div>
+
     <script src="app.js"></script>
   </body>
+  <footer class="footer bg-dark">
+    <div class="container">
+      <p class="text-center">
+        © 2021 Shawn Mendes | Official Store. All Rights Reserved. | Designed
+        With by
+        <a href="https://github.com/alexocay">Alejandra Ochoa Ayala</a>
+      </p>
+    </div>
+  </footer>
 </html>

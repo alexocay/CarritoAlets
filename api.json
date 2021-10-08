@@ -7,19 +7,13 @@
   },
   {
     "precio": 90,
-    "id": 3,
+    "id": 2,
     "title": "THE TOUR BLACK PHOTO HOODIE",
     "thumbnailUrl": "img/thetour3.png"
   },
   {
-    "precio": 36,
-    "id": 5,
-    "title": "THE TOUR SKETCH II T-SHIRT",
-    "thumbnailUrl": "img/thetour5.jpg"
-  },
-  {
     "precio": 105,
-    "id": 4,
+    "id": 3,
     "title": "THE TOUR TIE DYE HOODIE",
     "thumbnailUrl": "img/thetour7.jpg"
   },
@@ -30,50 +24,8 @@
     "thumbnailUrl": "img/thetour12.jpg"
   },
   {
-    "precio": 25,
-    "id": 2,
-    "title": "THE TOUR T-SHIRT",
-    "thumbnailUrl": "img/thetour2.jpg"
-  },
-  {
-    "precio": 40,
-    "id": 2,
-    "title": "THE TOUR NAME T-SHIRT SHOT",
-    "thumbnailUrl": "img/thetour8.png"
-  },
-  {
-    "precio": 40,
-    "id": 2,
-    "title": "THE TOUR WHITE T-SHIRT SHOT",
-    "thumbnailUrl": "img/thetour9.png"
-  },
-  {
-    "precio": 40,
-    "id": 2,
-    "title": "THE TOUR PHOTO T-SHIRT",
-    "thumbnailUrl": "img/thetour92.jpg"
-  },
-  {
-    "precio": 15,
-    "id": 4,
-    "title": "THE TOUR TOTE BAG",
-    "thumbnailUrl": "img/thetour4.jpg"
-  },
-  {
-    "precio": 5,
-    "id": 5,
-    "title": "THE TOUR BRACELET",
-    "thumbnailUrl": "img/thetour6.jpg"
-  },
-  {
-    "precio": 25,
-    "id": 6,
-    "title": "THE TOUR HAT",
-    "thumbnailUrl": "img/thetour13.jpg"
-  },
-  {
     "precio": 80,
-    "id": 6,
+    "id": 5,
     "title": "IN MY BLOOD CREWNECK",
     "thumbnailUrl": "img/inmyblood.jpg"
   },
@@ -85,50 +37,254 @@
   },
   {
     "precio": 95,
-    "id": 6,
+    "id": 7,
     "title": "IN MY BLOOD FLORAL HOODIE II",
     "thumbnailUrl": "img/inmyblood3.jpg"
   },
   {
-    "precio": 20,
-    "id": 6,
-    "title": "IN MY BLOOD TOUR T-SHIRT",
-    "thumbnailUrl": "img/inmyblood4.jpg"
-  },
-  {
-    "precio": 40,
-    "id": 6,
-    "title": "WONDER SWALLOW T-SHIRT",
-    "thumbnailUrl": "img/wonder.jpg"
-  },
-  {
     "precio": 65,
-    "id": 6,
+    "id": 8,
     "title": "WONDER EMBOSSED CREWNECK",
     "thumbnailUrl": "img/wonder2.jpg"
   },
   {
+    "precio": 70,
+    "id": 9,
+    "title": "W HOODIE I",
+    "thumbnailUrl": "img/wonder8.jpg"
+  },
+  {
+    "precio": 70,
+    "id": 10,
+    "title": "W HOODIE II",
+    "thumbnailUrl": "img/wonder10.jpg"
+  },
+  {
+    "precio": 70,
+    "id": 11,
+    "title": "W CREWNECK II",
+    "thumbnailUrl": "img/wonder9.jpg"
+  },
+  {
+    "precio": 70,
+    "id": 12,
+    "title": "MONSTER HOODIE",
+    "thumbnailUrl": "img/monster3.jpg"
+  },
+  {
+    "precio": 36,
+    "id": 13,
+    "title": "THE TOUR SKETCH II T-SHIRT",
+    "thumbnailUrl": "img/thetour5.jpg"
+  },
+  {
+    "precio": 25,
+    "id": 14,
+    "title": "THE TOUR T-SHIRT",
+    "thumbnailUrl": "img/thetour2.jpg"
+  },
+  {
+    "precio": 28,
+    "id": 15,
+    "title": "THE TOUR WHITE T-SHIRT SHOT",
+    "thumbnailUrl": "img/thetour9.png"
+  },
+  {
+    "precio": 40,
+    "id": 16,
+    "title": "THE TOUR PHOTO T-SHIRT",
+    "thumbnailUrl": "img/thetour92.jpg"
+  },
+  {
+    "precio": 20,
+    "id": 17,
+    "title": "IN MY BLOOD TOUR T-SHIRT",
+    "thumbnailUrl": "img/inmyblood4.jpg"
+  },
+  {
+    "precio": 24,
+    "id": 18,
+    "title": "IN MY BLOOD FLOWER T-SHIRT I",
+    "thumbnailUrl": "img/inmyblood5.jpg"
+  },
+  {
+    "precio": 24,
+    "id": 19,
+    "title": "SEÑORITA L/S T-SHIRT",
+    "thumbnailUrl": "img/inmyblood6.jpg"
+  },
+  {
+    "precio": 40,
+    "id": 20,
+    "title": "WONDER SWALLOW T-SHIRT",
+    "thumbnailUrl": "img/wonder.jpg"
+  },
+  {
     "precio": 35,
-    "id": 6,
+    "id": 21,
     "title": "WONDER COVER T-SHIRT I",
     "thumbnailUrl": "img/wonder3.jpg"
   },
   {
-    "precio": 25,
-    "id": 6,
+    "precio": 35,
+    "id": 22,
     "title": "WONDER COVER T-SHIRT II",
     "thumbnailUrl": "img/wonder4.jpg"
   },
   {
     "precio": 25,
-    "id": 6,
+    "id": 23,
     "title": "WONDER SCRIPT L/S T-SHIRT",
     "thumbnailUrl": "img/wonder5.jpg"
   },
   {
-    "precio": 25,
-    "id": 6,
+    "precio": 40,
+    "id": 24,
     "title": "WONDER SCRIPT T-SHIRT",
     "thumbnailUrl": "img/wonder6.jpg"
+  },
+  {
+    "precio": 50,
+    "id": 25,
+    "title": "WONDER SUN TIE DYE T-SHIRT",
+    "thumbnailUrl": "img/wonder7.jpg"
+  },
+  {
+    "precio": 40,
+    "id": 26,
+    "title": "MONSTER LEDGE PHOTO T-SHIRT",
+    "thumbnailUrl": "img/monster.jpg"
+  },
+  {
+    "precio": 40,
+    "id": 27,
+    "title": "MONSTER LOGO T-SHIRT",
+    "thumbnailUrl": "img/monster2.jpg"
+  },
+  {
+    "precio": 15,
+    "id": 28,
+    "title": "THE TOUR TOTE BAG",
+    "thumbnailUrl": "img/thetour4.jpg"
+  },
+  {
+    "precio": 5,
+    "id": 29,
+    "title": "THE TOUR BRACELET",
+    "thumbnailUrl": "img/thetour6.jpg"
+  },
+  {
+    "precio": 25,
+    "id": 30,
+    "title": "THE TOUR HAT",
+    "thumbnailUrl": "img/thetour13.jpg"
+  },
+  {
+    "precio": 17,
+    "id": 31,
+    "title": "THE TOUR ENAMEL PIN SET",
+    "thumbnailUrl": "img/thetour14.jpg"
+  },
+  {
+    "precio": 30,
+    "id": 32,
+    "title": "WONDER HOLIDAY BEANIE",
+    "thumbnailUrl": "img/wonder11.jpg"
+  },
+  {
+    "precio": 60,
+    "id": 33,
+    "title": "WONDER VIEWMASTER",
+    "thumbnailUrl": "img/wonder13.jpg"
+  },
+  {
+    "precio": 15,
+    "id": 34,
+    "title": "IPHONE 6 CASE",
+    "thumbnailUrl": "img/phonecase.jpg"
+  },
+  {
+    "precio": 15,
+    "id": 35,
+    "title": "IPHONE 5 CASE SM LOGO",
+    "thumbnailUrl": "img/phonecase2.jpg"
+  },
+  {
+    "precio": 44,
+    "id": 36,
+    "title": "PLUSH ANIMAL LEO THE LION",
+    "thumbnailUrl": "img/leothelion.jpg"
+  },
+  {
+    "precio": 30,
+    "id": 37,
+    "title": "MONSTER BEANIE",
+    "thumbnailUrl": "img/monster4.jpg"
+  },
+  {
+    "precio": 25,
+    "id": 38,
+    "title": "WONDER SOCKS",
+    "thumbnailUrl": "img/wonder14.jpg"
+  },
+  {
+    "precio": 35,
+    "id": 39,
+    "title": "WONDER COPPER MUG",
+    "thumbnailUrl": "img/wonder15.jpg"
+  },
+  {
+    "precio": 15,
+    "id": 40,
+    "title": "HANDWRITTEN CD",
+    "thumbnailUrl": "img/handwritten.jpg"
+  },
+  {
+    "precio": 16,
+    "id": 41,
+    "title": "HANDWRITTEN REVISITED CD",
+    "thumbnailUrl": "img/handwritten2.jpg"
+  },
+  {
+    "precio": 16,
+    "id": 42,
+    "title": "ILLUMINATE CD",
+    "thumbnailUrl": "img/illuminate.jpg"
+  },
+  {
+    "precio": 17,
+    "id": 43,
+    "title": "ILLUMINATE DELUXE CD",
+    "thumbnailUrl": "img/illuminate.jpg"
+  },
+  {
+    "precio": 17,
+    "id": 44,
+    "title": "THE ALBUM CD",
+    "thumbnailUrl": "img/thealbum.jpg"
+  },
+  {
+    "precio": 20,
+    "id": 45,
+    "title": "THE ALBUM DELUXE CD",
+    "thumbnailUrl": "img/thealbum2.jpg"
+  },
+  {
+    "precio": 18,
+    "id": 46,
+    "title": "WONDER CD",
+    "thumbnailUrl": "img/wondercd.jpg"
+  },
+  {
+    "precio": 14,
+    "id": 47,
+    "title": "WONDER STANDARD CD",
+    "thumbnailUrl": "img/wondercd2.jpg"
+  },
+  {
+    "precio": 16,
+    "id": 48,
+    "title": "WONDER DELUXE CD",
+    "thumbnailUrl": "img/wondercd3.jpg"
   }
 ]
