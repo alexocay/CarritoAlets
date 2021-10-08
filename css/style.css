@@ -76,16 +76,18 @@ a.navbar-brand {
   background-color: #6d2e27;
   border-radius: 3%;
   color: whitesmoke;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 
-.btn-primary:hover {
+.buy:hover {
   background-color: whitesmoke;
   border-color: #6d2e27;
   color: #6d2e27;
 }
 
-.btn-primary {
+.buy {
   background-color: #a0824d;
+  color: whitesmoke;
   border-color: #6d2e27;
 }
 
